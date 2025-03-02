@@ -1,0 +1,6 @@
+Command(LINUX)
+
+ls = 'list the directory folder'
+pwd = 'present working directory'
+cd = 'change directory'
+
